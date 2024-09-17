@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow</title>
+    <g id="pc版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+        <g id="4JS-更换背景" transform="translate(-1470.000000, -85.000000)">
+            <g id="个人简介栏" transform="translate(360.000000, 71.000000)">
+                <g id="更换背景" transform="translate(1057.000000, 12.000000)">
+                    <g id="arrow" transform="translate(53.000000, 2.000000)">
+                        <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="2.73262087 7.14018557 6.73262087 7.14018557 6.73262087 7.85530707 2.73262087 7.85530707 2.73262087 7.14018557"></polygon>
+                        <circle id="椭圆形" stroke="#FFFFFF" cx="7" cy="7" r="6.5"></circle>
+                        <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="6.81542259 5.00023362 10.9741132 7.44263922 6.81542259 9.95105578 6.81542259 5.00023362"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

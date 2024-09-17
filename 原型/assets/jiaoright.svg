@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="60px" viewBox="0 0 70 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>jiaoright</title>
+    <defs>
+        <polygon id="path-1" points="-5.68572966e-14 0 68 58 68 0"></polygon>
+        <filter x="-18.0%" y="-9.0%" width="136.0%" height="118.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-10.4%" y="-10.4%" width="120.8%" height="120.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-18.0%" y="-9.0%" width="136.0%" height="118.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-18.0%" y="-9.0%" width="136.0%" height="118.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-10.4%" y="-10.4%" width="120.8%" height="120.8%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-18.0%" y="-9.0%" width="136.0%" height="118.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-9.0%" y="-18.0%" width="118.0%" height="136.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-10.4%" y="-10.4%" width="120.8%" height="120.8%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-9.0%" y="-18.0%" width="118.0%" height="136.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-9.0%" y="-18.0%" width="118.0%" height="136.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-10.4%" y="-10.4%" width="120.8%" height="120.8%" filterUnits="objectBoundingBox" id="filter-13">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-9.0%" y="-18.0%" width="118.0%" height="136.0%" filterUnits="objectBoundingBox" id="filter-14">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="37.8657794%" y1="40.826102%" x2="54.1071227%" y2="56.3477541%" id="linearGradient-15">
+            <stop stop-color="#F8F8F8" offset="0%"></stop>
+            <stop stop-color="#5B5B5B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="pc版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4JS-更换背景" transform="translate(-1490.000000, -71.000000)">
+            <g id="个人简介栏" transform="translate(360.000000, 71.000000)">
+                <g id="jiaoright" transform="translate(1130.000000, 0.000000)">
+                    <g id="彩色" transform="translate(2.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="蒙版" fill="#D8D8D8" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)" fill-rule="nonzero" id="路径">
+                            <g transform="translate(-60.000000, -76.000000)">
+                                <polygon fill="#FF3579" filter="url(#filter-3)" points="100.007348 0 100.007348 100 50.0073482 13.4196891"></polygon>
+                                <polygon fill="#FF6736" filter="url(#filter-4)" points="150.007348 13.4196891 186.587659 50 100.007348 100"></polygon>
+                                <polygon fill="#FF5555" filter="url(#filter-5)" points="100.007348 0 150.007348 13.4196891 100.007348 100"></polygon>
+                                <polygon fill="#BBFF6D" filter="url(#filter-6)" points="100.007348 200 100.007348 100 150.007348 186.580311"></polygon>
+                                <polygon fill="#36C1FF" filter="url(#filter-7)" points="50.0073482 186.580311 13.4270375 150 100.007348 100"></polygon>
+                                <polygon fill="#68FF6F" filter="url(#filter-8)" points="100.007348 200 50.0073482 186.580311 100.007348 100"></polygon>
+                                <polygon fill="#FFAC31" filter="url(#filter-9)" points="200.007348 100 100.007348 100 186.587659 50"></polygon>
+                                <polygon fill="#FFEB3E" filter="url(#filter-10)" points="186.587659 150 150.007348 186.580311 100.007348 100"></polygon>
+                                <polygon fill="#FFCD2D" filter="url(#filter-11)" points="200.007348 100 186.587659 150 100.007348 100 200.007348 100"></polygon>
+                                <polygon fill="#748AFF" filter="url(#filter-12)" points="0.00734824219 100 100.007348 100 13.4270375 150"></polygon>
+                                <polygon fill="#E02CFF" filter="url(#filter-13)" points="13.4270375 50 50.0073482 13.4196891 100.007348 100"></polygon>
+                                <polygon fill="#8A47FF" filter="url(#filter-14)" points="0.00734824219 100 13.4270375 50 100.007348 100"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M70,0 C69.436531,1.69059269 67.7781325,3.44110971 62.8929228,7.25810845 C55.3377277,13.162169 35.8802316,10.7415889 35.8802316,10.7415889 C23.965248,10.7415889 15.5838733,20.4777806 14.3065561,32.3337201 C12.0212757,53.5426986 4.63759738,57.2192686 0,60 L2.79137584,60 C3.75525206,59.5569231 5.13946526,58.8553846 7.19947889,57.7725095 C14.5952358,53.884691 57.4013649,15.5137453 63.9812091,10.0158386 C68.0215173,6.63949559 69.4769945,4.14325347 70,1.69967213 L70,0 Z" id="Fill-1" fill="url(#linearGradient-15)" transform="translate(35.000000, 30.000000) scale(1, -1) translate(-35.000000, -30.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
